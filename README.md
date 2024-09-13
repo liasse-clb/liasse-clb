@@ -2,4 +2,4 @@
 - 🌱 Atualment desenvolvendo um aplicativo móvel
 - 💞️ Tenho interesse em javascript, PHP e SQL
 - 📫 Atualamente estudando React Native
-
+- UIVERSE https://uiverse.io/profile/liasse-clb
