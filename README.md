@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Calebe 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web & Mobile • Freelancer • Trader Estratégico</b><br/>
+  <b>Desenvolvedor Web & Mobile • Freelancer</b><br/>
   <i>Criando soluções reais com código e estratégia.</i>
 </p>
 
@@ -12,7 +12,6 @@
 - 🔧 Especializado em **React**, **Next.js**, **Node.js**, **MySQL**
 - 📱 Desenvolvimento **mobile** com foco em usabilidade e performance
 - 🧪 Backend com **Supabase** e integração de APIs
-- 📊 Operador de **trading** com gerenciamento emocional e técnico
 - 🚀 Publicando projetos e insights semanais no LinkedIn
 
 ---
