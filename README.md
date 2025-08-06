@@ -41,18 +41,9 @@
 
 ### 🌍 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-
-### 📌 Últimos projetos
-
-- ✅ **Sistema de Portfólio com Supabase e Next.js**  
-- ✅ **Calculadora mobile com histórico e temas**
-- ✅ **Páginas responsivas para clientes usando HeroUI**
-- ✅ **Integração com Supabase Storage (upload de imagens/vídeos)**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-liasse-71488430b/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-calebe-liasse.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebeliasseclb@gmail.com)
 
 ---
 
